@@ -1,0 +1,205 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language",
+    "hospital": "Shri Samarth Hospital"
+  },
+  "hero": {
+    "title": "Welcome to Shri Samarth Hospital",
+    "tagline": "\"Your Health... Our Service!\"",
+    "desc": "Providing trusted medical care for Chaufula, Wajewadi, and nearby regions.",
+    "book": "Book Appointment",
+    "services": {
+      "find1": "Find a",
+      "find2": "Doctor",
+      "explore1": "Explore",
+      "explore2": "Specialities",
+      "pay1": "Online",
+      "pay2": "Payment",
+      "check1": "Health",
+      "check2": "Checkup",
+      "video1": "Video",
+      "video2": "Consultation",
+      "labels": {
+        "find": "Find a Doctor",
+        "explore": "Explore Specialities",
+        "pay": "Online Payment",
+        "check": "Health Checkup",
+        "video": "Video Consultation"
+      }
+    }
+  },
+  "about": {
+    "title": "Welcome to Shri Samarth Hospital",
+    "p1": "Shri Samarth Hospital is a 40-bed multi-specialty healthcare center in Shirur, Pune. We are committed to providing the best medical care with modern technology and a team of experienced and specialist doctors.",
+    "p2": "Our goal is to deliver safe, affordable, and high-quality healthcare to every patient with compassion and integrity.",
+    "stats": {
+      "saved": "Saved Lives",
+      "surgeries": "Successful Surgeries",
+      "happy": "Happy Patients",
+      "consult": "Consultations",
+      "departments": "Departments"
+    },
+    "readMore": "Read More"
+  },
+  "departments": {
+    "title": "Our Departments / Specialties",
+    "intro": "Our hospital offers specialized departments with highly trained professionals and state-of-the-art medical facilities to address all your health needs.",
+    "items": {
+      "cardiology": {
+        "name": "Cardiology & BP Management",
+        "desc": "Heart care, ECG/ECHO, hypertension diagnosis and control."
+      },
+      "ortho": {
+        "name": "Orthopedics",
+        "desc": "Bone, joint and spine care, injuries and rehabilitation."
+      },
+      "medicine": {
+        "name": "General Medicine & Diabetes Care",
+        "desc": "Comprehensive internal medicine and diabetic management."
+      },
+      "pediatrics": {
+        "name": "Pediatrics",
+        "desc": "Child health, vaccinations, growth and development care."
+      },
+      "dialysis": {
+        "name": "Dialysis Unit",
+        "desc": "Safe and monitored hemodialysis with trained specialists."
+      },
+      "emergency": {
+        "name": "24x7 Emergency & Accident Dept.",
+        "desc": "Round-the-clock emergency response and trauma care."
+      }
+    }
+  },
+  "why": {
+    "title": "Why Choose Us",
+    "features": {
+      "emergency": {
+        "title": "24x7 Emergency & Hospital Services",
+        "desc": "Round-the-clock emergency care and trauma response with rapid ambulance support."
+      },
+      "cashless": {
+        "title": "Cashless Insurance Facility Available",
+        "desc": "Seamless TPA coordination with support for major insurance providers."
+      },
+      "specialists": {
+        "title": "Experienced Specialist & Super-Specialist Doctors",
+        "desc": "Board‑certified experts delivering evidence‑based, compassionate care."
+      },
+      "icu": {
+        "title": "Advanced ICU & Operation Theatre",
+        "desc": "Modern ICUs and OTs with infection control and continuous monitoring."
+      },
+      "wards": {
+        "title": "Separate Wards for Male & Female Patients",
+        "desc": "Privacy-focused wards and rooms designed for comfort and safety."
+      },
+      "inhouse": {
+        "title": "In-house Medical & Lab Services",
+        "desc": "Pathology, diagnostics and pharmacy — all under one roof for faster care."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Patient Testimonials",
+    "featured": {
+      "quote": "Excellent care and facilities. The doctors and staff at Shri Samarth Hospital are very supportive and professional. Highly recommended for families in the Shirur area.",
+      "author": "Aditi S.",
+      "role": "Patient"
+    },
+    "items": [
+      {
+        "quote": "From admission to discharge, the process was smooth and caring. The doctors explained every step clearly.",
+        "author": "Rohit M.",
+        "role": "Patient’s Family"
+      },
+      {
+        "quote": "Clean rooms, quick diagnostics, and compassionate nurses. Truly grateful for the timely treatment.",
+        "author": "Neha S.",
+        "role": "Patient"
+      },
+      {
+        "quote": "Professional staff and excellent diabetes management. Follow‑ups are well coordinated and helpful.",
+        "author": "S. Kulkarni",
+        "role": "Outpatient"
+      }
+    ]
+  },
+  "contact": {
+    "bannerTitle": "Contact Us",
+    "bannerSubtitle": "We’re Here to Help You 24x7",
+    "emergencySupport": "24x7 Emergency Support",
+    "sendUs": "Send Us a Message",
+    "helpText": "Have questions about appointments, services, or reports? Fill in the form and our team will get back to you shortly.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "message": "Message",
+    "ph_name": "Your full name",
+    "ph_email": "you@example.com",
+    "ph_phone": "+91 XXXXX XXXXX",
+    "ph_message": "Write your message...",
+    "error_required": "Please fill in all required fields.",
+    "success": "Thank you! Your message has been sent. We’ll get back to you soon.",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "map_open": "Open in Google Maps →",
+    "map_hint": "If the map doesn’t load,",
+    "address": "Address",
+    "phoneTitle": "Phone",
+    "emailTitle": "Email",
+    "email_note": "Use email for non‑urgent queries and documentation.",
+    "emergencyLines": "Emergency lines monitored 24x7",
+    "working": "Working Hours",
+    "opd": "OPD & Consultation:",
+    "opd_time": "Monday – Sunday: Open Daily",
+    "emergency": "Emergency Services:",
+    "emergency_time": "24x7 Available",
+    "phones": {
+      "primary": "Primary",
+      "emergency": "Emergency",
+      "reception": "Reception"
+    }
+  },
+  "aboutMain": {
+    "bannerTitle": "About Shri Samarth Hospital",
+    "bannerSubtitle": "Your Trusted Partner in Health, Always",
+    "ourStory": "Our Story",
+    "story_p1": "Shri Samarth Hospital is a trusted 40-bed multi-specialty hospital established to serve the communities of Chaufula, Wajewadi, Pimple Jagtap, and the surrounding areas in Shirur, Pune.",
+    "story_p2": "With a strong focus on patient satisfaction and ethical practices, we combine advanced treatment methods with experienced, compassionate doctors to ensure every patient receives personalized care and attention across our multiple departments.",
+    "mv": "Mission & Vision",
+    "mission": "Mission",
+    "mission_p1": "To provide ethical, affordable, and high-quality healthcare to all, embodying our motto:",
+    "mission_motto_mr": "“आरोग्य तुमचे... सेवा आमची!”",
+    "mission_motto_en": "“Your health... Our service!”",
+    "vision": "Vision",
+    "vision_p": "To be the most trusted and patient-focused hospital in the Shirur region, delivering advanced medical treatment with a compassionate, human touch.",
+    "valuesTitle": "Our Core Values",
+    "values": {
+      "compassion": { "title": "Compassion", "desc": "Caring deeply for every patient's well-being." },
+      "excellence": { "title": "Excellence", "desc": "Maintaining high medical standards in every procedure." },
+      "integrity": { "title": "Integrity", "desc": "Honest, transparent and ethical in all our practices." },
+      "service": { "title": "Service", "desc": "Putting the patient's needs first, always." },
+      "teamwork": { "title": "Teamwork", "desc": "Working together for better health outcomes." }
+    },
+    "teamTitle": "Our Team",
+    "teamDesc": "Our dedicated team of specialist doctors, nurses, and support staff work around the clock to provide the highest quality of care, ensuring your comfort and speedy recovery."
+  },
+  "footer": {
+    "copyright": "All Rights Reserved"
+  },
+  "section": {
+    "title": "Find Possible Symptoms and Expertise",
+    "clicked": "Clicked on {{item}}",
+    "symptoms": {
+      "headache": "Headache",
+      "chestPain": "Chest Pain",
+      "jointPain": "Joint Pain",
+      "stomachAche": "Stomach Ache",
+      "backPain": "Back Pain"
+    }
+  }
+}
