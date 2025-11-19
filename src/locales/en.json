@@ -4,7 +4,8 @@
     "about": "About",
     "contact": "Contact",
     "language": "Language",
-    "hospital": "Shri Samarth Hospital"
+    "hospital": "Shri Samarth Hospital",
+    "trustCare": "Trust & Care Overview"
   },
   "hero": {
     "title": "Welcome to Shri Samarth Hospital",
@@ -201,5 +202,60 @@
       "stomachAche": "Stomach Ache",
       "backPain": "Back Pain"
     }
+  },
+  "trust": {
+    "heroTitle": "Our Legacy of Care: The Sharada Foundation's Commitment to Health",
+    "heroDesc": "Shri Samarth Hospital is a dedicated initiative by the Sharada Foundation, built on a mission of providing compassionate and accessible healthcare. We bring trusted medical expertise and state-of-the-art technology to the communities of Shirur, Chaufula, Wajewadi, and beyond, ensuring that quality care is always within reach.",
+    "buttons": {
+      "chat": "Chat on WhatsApp",
+      "community": "Community Programs"
+    },
+    "communityTitle": "Serving Our Community with Heart",
+    "communityDesc": "At Shri Samarth Hospital, we believe in giving back. We are committed to uplifting our community through regular free health check-up camps, blood donation drives, and wellness awareness programs. Our goal is to touch thousands of lives and promote a healthier future, even beyond the walls of our hospital.",
+    "community": {
+      "camps": { "title": "Health Camps", "sub": "Regular camps" },
+      "drives": { "title": "Blood Drives", "sub": "Life saving" },
+      "awareness": { "title": "Awareness", "sub": "Wellness programs" },
+      "volunteers": { "title": "Volunteers", "sub": "Community support" }
+    },
+    "ctaTitle": "Instant Consultation & Appointments",
+    "ctaDesc": "Chat directly with our hospital representatives on WhatsApp for quick information and scheduling. We provide confidential guidance to make healthcare more accessible.",
+    "ctaCall": "Call / WhatsApp:",
+    "ctaChatBtn": "Chat on WhatsApp",
+    "ctaCallBtn": "Call Us",
+    "specialtiesTitle": "Our Medical Specialties",
+    "specialtiesDesc": "Explore our comprehensive range of expert medical departments dedicated to your complete well-being.",
+    "specialties": {
+      "emergencyTrauma": "Emergency & Trauma Care (24x7)",
+      "icu": "Intensive Care Unit (ICU)",
+      "cardiology": "Cardiology & Heart Care",
+      "orthopedics": "Orthopedics (Bone & Joint)",
+      "pediatrics": "Pediatrics (Child Care)",
+      "gynecology": "Gynecology",
+      "dialysis": "Dialysis",
+      "generalMedicine": "General Medicine & Diabetes"
+    },
+    "specialtyNote": "Expert team and up-to-date facilities",
+    "roomsTitle": "Accommodations Designed for Your Comfort & Healing",
+    "roomsDesc": "We offer a range of comfortable and well-maintained rooms to suit your needs and ensure a peaceful recovery.",
+    "rooms": {
+      "private": {
+        "title": "Private Rooms",
+        "desc": "Complete privacy and a quiet environment with personal amenities."
+      },
+      "semi": {
+        "title": "Semi-Private Rooms",
+        "desc": "Cost-effective option with essential amenities shared between two patients."
+      },
+      "deluxe": {
+        "title": "Deluxe Rooms",
+        "desc": "Enhanced comfort and extra amenities for a more pleasant stay."
+      },
+      "ward": {
+        "title": "General Wards",
+        "desc": "Clean and well-managed wards, separate for male and female patients."
+      }
+    },
+    "viewRooms": "View All Rooms & Rates"
   }
 }
